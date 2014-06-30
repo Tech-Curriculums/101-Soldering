@@ -62,8 +62,6 @@ Programming tssop packaged arduino (really small pcb must be specialized)
 
 Make -- your phone.
 
-
-
-
+---
 
 
