@@ -1,3 +1,7 @@
+
+
+---
+
 ## Station A: Flashlight
 
 
@@ -23,6 +27,7 @@
 
 * surface mount led's with resistors
 
+---
 
 ## Station B: Make-a-duino.
 
@@ -33,19 +38,24 @@ programming the arduino
 Programming the attiny via the arduino.
 Programming tssop packaged arduino (really small pcb must be specialized)
 
+---
+
+
 ## Station C: Fancy Chip soldering
 
-### Station A: smaller smds!
+### Station 1: smaller smds!
 
 * solder paste
 * reflow ovens
 
-### Station B:
+
+
+### Station 2:
 
 * Paste && Wick Soldering
 * msops and tssops
 
-### Station ???: Hot Air Rework 
+### Station 3: Hot Air Rework 
 
 * msop and many sops
 * Ball Grid Array -- hot air rework station
